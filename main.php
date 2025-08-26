@@ -8,7 +8,9 @@
 <body>
   <from>
   <button>hola</button>
-  </from>   
+  </from>  
+  
+  <h1>fuego</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, unde.</p>
 </body>
 </html>
